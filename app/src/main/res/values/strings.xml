@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rating Example</string>
+    <string name="str_prueba">Prueba</string>
+    <string name="str_prueba1">Rating Estatico</string>
+    <string name="str_prueba2">Rating Enteros</string>
+    <string name="str_prueba3">Rating Mitad</string>
+    <string name="str_prueba4">Rating Personalizado</string>
+    <string name="str_prueba6">Rating Evento</string>
+    <string name="str_prueba5">Rating Borde</string>
+</resources>
